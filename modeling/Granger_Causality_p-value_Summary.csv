@@ -1,0 +1,15 @@
+Variable,Lag,Mean p-value,Median p-value,Min p-value
+commit_count,1,0.5974,0.6178,7e-06
+commit_count,2,0.5445,0.5475,0.000377
+commit_count,3,0.5567,0.5745,0.007676
+avg_bug_fix_time_hrs,1,0.5324,0.5784,0.012544
+avg_bug_fix_time_hrs,2,0.3593,0.1505,0.030949
+pr_success,1,0.5954,0.6373,3.5e-05
+pr_success,2,0.5626,0.5955,4e-06
+pr_success,3,0.5863,0.5474,0.020938
+churn_total,1,0.627,0.6886,0.0
+churn_total,2,0.5233,0.5255,0.0
+churn_total,3,0.5232,0.5443,1e-06
+sentiment_compound,1,0.5347,0.5501,0.007862
+sentiment_compound,2,0.527,0.6374,0.080788
+sentiment_compound,3,0.518,0.5039,0.098758
