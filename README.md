@@ -25,13 +25,9 @@ Key components include:
 ## 📂 Repository Structure
 
 ├── data_preprocessing/ # Feature extraction and labeling logic
-│ 
 ├── network_analysis/ # Interaction graph and centrality metrics
-│ 
 ├── modeling/ # Granger causality and predictive models
-│ 
 ├── visualization/ # trajectory plots, comparison figures
-│ 
 ├── data/ # Sample (or anonymized) monthly activity data
 └── README.md
 
